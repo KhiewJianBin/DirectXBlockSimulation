@@ -1,0 +1,4 @@
+http://www.dougturner.net/blendersite/images%5CTextures%5Cstore%5C4_store.jpg 6
+http://div.dyndns.org/EK/tutorial/texture/crate.jpg 7
+http://www.lighthouse3d.com/wp-content/uploads/2011/03/crate.jpg 8 
+http://www.ninkuka.com/ninkuka/images/modntex/crate01.jpg 9
