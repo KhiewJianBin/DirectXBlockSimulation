@@ -70,18 +70,3 @@ T - Lock on to Player
 ## Dev Notes
 - Saves entire state of the level
 - Load/Save format uses simple Char comparision
-
-## Refrences
-- Pain(Sound) [^1]
-- SLUG-like Monster [^2]
-- Gazer_model [^3]
-- Mech06 [^4]
-- Marvin Demo(Sub character) [^5]
-- Bomberman(Main Player) [^6]
-
-[^1]: http://soundbible.com/1454-Pain.html
-[^2]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/375786
-[^3]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/327786
-[^4]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/460614
-[^5]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/378221
-[^6]: http://www.turbosquid.com/FullPreview/Index.cfm/ID/422967
